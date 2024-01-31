@@ -61,7 +61,11 @@ Pub/Sub topics
 Secrets
 ```
 # Examples
+## Output
 ![Screenshot_8](https://github.com/b-hermes/gcp_enum/assets/39487743/da1e7dc7-0b67-4a6c-9d84-3a8ffe1820e4)
+
+## Output file example
+![image (4)](https://github.com/b-hermes/gcp_enum/assets/39487743/a6cf0d3f-95b8-41cd-8cc3-26be4102699f)
 
 
 # References
